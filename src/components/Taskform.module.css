@@ -18,6 +18,7 @@
     color: #000;
     transition: .5s;
     cursor: pointer;
+    border-radius: 2px;
 }
 
 .form input[type="submit"]:hover {
